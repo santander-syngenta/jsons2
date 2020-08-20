@@ -1,0 +1,380 @@
+[
+{
+"model": "accounts.crop",
+"pk": 1,
+"fields": {
+"name": "-"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 2,
+"fields": {
+"name": "Barley"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 3,
+"fields": {
+"name": "Beans Field/Dry"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 4,
+"fields": {
+"name": "Beans Garden/Green"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 5,
+"fields": {
+"name": "Berry Crops (blueberry; raspberry; blackberry; lingonberry; cranberry)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 6,
+"fields": {
+"name": "Bulb Crops (onion; garlic; leek)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 7,
+"fields": {
+"name": "Caneberries (blackberry; raspberry)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 8,
+"fields": {
+"name": "Canola/Rape/Mustard"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 9,
+"fields": {
+"name": "Citrus (orange; lemon; grapefruit; tangerine; tangelo)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 10,
+"fields": {
+"name": "Cole Crops (cabbage; broccoli; cauliflower; brussels sprouts; kale; kohlrabi)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 11,
+"fields": {
+"name": "Corn (dent; pop; flint; flour; silage)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 12,
+"fields": {
+"name": "Corn (sweet)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 13,
+"fields": {
+"name": "Cotton"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 14,
+"fields": {
+"name": "Cucurbits (honeydew; watermelon; gourd; squash; cucumber; zucchini)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 15,
+"fields": {
+"name": "Forage (alfalfa; clover; orchardgrass; fescue; timothy)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 16,
+"fields": {
+"name": "Fruiting Vegetables (tomato; peppers; eggplant; okra)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 17,
+"fields": {
+"name": "Grape"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 18,
+"fields": {
+"name": "Grasses Grown for Seed"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 19,
+"fields": {
+"name": "Hops"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 20,
+"fields": {
+"name": "L&G Ornamentals (flowers and non-woody)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 21,
+"fields": {
+"name": "L&G Ornamentals (woody)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 22,
+"fields": {
+"name": "L&G PPM"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 23,
+"fields": {
+"name": "L&G Substrates"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 24,
+"fields": {
+"name": "L&G Trees"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 25,
+"fields": {
+"name": "L&G Turf (bluegrass; fescue; bermudagrass; centipedegrass; ryegrass; zoysiagrass; St. Augustine)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 26,
+"fields": {
+"name": "Leafy Vegetables (lettuce; celery; spinach; rhubarb; swiss chard; parsley)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 27,
+"fields": {
+"name": "Mint (spearmint; peppermint; wintergreen)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 28,
+"fields": {
+"name": "Non Crop"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 29,
+"fields": {
+"name": "Oats"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 30,
+"fields": {
+"name": "Other Cereals"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 31,
+"fields": {
+"name": "Other Fruits"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 32,
+"fields": {
+"name": "Other Herbs & Spices"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 33,
+"fields": {
+"name": "Other Nuts"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 34,
+"fields": {
+"name": "Other Oilseeds"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 35,
+"fields": {
+"name": "Other Vegetables"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 36,
+"fields": {
+"name": "Peanut"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 37,
+"fields": {
+"name": "Pome Fruits (apples; pears)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 38,
+"fields": {
+"name": "Potato"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 39,
+"fields": {
+"name": "Pulses (field pea; garden pea; chickpea; lentils)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 40,
+"fields": {
+"name": "Rice"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 41,
+"fields": {
+"name": "Root Crops (carrot; radish; turnip; sweet potato; celeriac; beets; ginger; horseradish; ginseng)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 42,
+"fields": {
+"name": "Rye"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 43,
+"fields": {
+"name": "Safflower"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 44,
+"fields": {
+"name": "Sorghum (grain; forage; sweet)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 45,
+"fields": {
+"name": "Soybeans"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 46,
+"fields": {
+"name": "Stone Fruits (peaches; plums; cherries; prunes; apricots; nectarines)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 47,
+"fields": {
+"name": "Strawberries"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 48,
+"fields": {
+"name": "Sugarbeet"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 49,
+"fields": {
+"name": "Sugarcane"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 50,
+"fields": {
+"name": "Sunflower"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 51,
+"fields": {
+"name": "Tobacco"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 52,
+"fields": {
+"name": "Tree Nuts (almonds; walnuts; pistachios; pecans; filberts)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 53,
+"fields": {
+"name": "Triticale"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 54,
+"fields": {
+"name": "Wheat"
+}
+}
+]
